@@ -1,5 +1,7 @@
 # About me
 
+
+![thenorthface]https://img.shields.io/badge/GitHub-#000000?style=for-the-badge&logo=GitHub&logoColor=white
 - 🔭 I’m currently working on becoming a Software Engineer
 - 🌱 I’m currently learning C#
 - 👯 I’m looking to collaborate on fun projects
